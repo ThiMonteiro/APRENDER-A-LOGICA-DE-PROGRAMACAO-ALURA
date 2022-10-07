@@ -21,11 +21,11 @@ nesse módulo aprendemos:
 
 Nós desenvolvemos nesse curso o **Jogo Pong**:
 
-<img src="C:\Users\Thiago Monteiro\PycharmProjects\APRENDER A LOGICA DE PROGRAMAÇAO - ALURA\logica de programação - comece em logica com o jogo pong e javascript\jogo pong.jpg">
+<img src="logica de programação - comece em logica com o jogo pong e javascript\jogo pong.jpg">
 
 **Certificado de conclusão do primeiro curso:**
 
-<img src="C:\Users\Thiago Monteiro\PycharmProjects\APRENDER A LOGICA DE PROGRAMAÇAO - ALURA\logica de programação - comece em logica com o jogo pong e javascript\Thiago Monteiro de Sousa - Curso - Alura_page-0001.jpg">
+<img src="logica de programação - comece em logica com o jogo pong e javascript\Thiago Monteiro de Sousa - Curso - Alura_page-0001.jpg">
 
 
 Nosso **segundo** curso foi **Lógica de programação: laços e listas com Javascript**,
@@ -39,14 +39,11 @@ nesse módulo aprendemos:
 
 Nós desenvolvemos nesse curso o **Freeway**:
 
-<img src="C:\Users\Thiago Monteiro\PycharmProjects\APRENDER A LOGICA DE PROGRAMAÇAO - ALURA\logica de programação - laços e listas com javascript\freeway.jpg">
+<img src="logica de programação - laços e listas com javascript\freeway.jpg">
 
 **Certificado de conclusão do segundo curso:**
 
-<img src="C:\Users\Thiago Monteiro\PycharmProjects\APRENDER A LOGICA DE PROGRAMAÇAO - ALURA\logica de programação - laços e listas com javascript\Thiago Monteiro de Sousa - Curso - Alura_page-0001.jpg">
+<img src="logica de programação - laços e listas com javascript\Thiago Monteiro de Sousa - Curso - Alura_page-0001.jpg">
 
 Nós finalizamos o **primeiro módulo de Inciante em Programação na Alura** com esses 2 cursos. 
 Assim finalizamos esse módulo e agora vamos para o **segundo módulo**.
-
-
-
